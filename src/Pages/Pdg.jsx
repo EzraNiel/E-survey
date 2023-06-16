@@ -8,7 +8,7 @@ function Pdg() {
   //   AFFICHAGE (RENDER)
   return (
     <>
-      <h1>PDG</h1>
+      <h1>Procureur</h1>
       <div className="Pdg">
         <Link to="/">Client_d</Link>
         <Link to="/Pdg">Pdg</Link>
